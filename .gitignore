@@ -1,0 +1,4 @@
+sample-app/node_modules
+sample-app/build
+api/__pycache__
+api/env
